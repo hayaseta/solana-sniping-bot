@@ -50,18 +50,25 @@ A few of the things you can do with Bot:
 - Sell Limit Order: Set your tokens to sell automatically at a predetermined price, locking in profits.
 - User friendly interface - hands-on interface
 - **Making the first to trade in new tokens.**
+
+<img width="1010" height="269" alt="Screenshot 2025-09-16 at 11 30 40" src="https://github.com/user-attachments/assets/e99f66c4-26f6-412a-b5b5-b6b3995a8873" />
+
+<img width="1009" height="272" alt="Screenshot 2025-09-16 at 11 31 13" src="https://github.com/user-attachments/assets/982a188b-93a1-4626-b00d-324f0010659f" />
+
+
 <img width="910" alt="2" src="https://github.com/user-attachments/assets/a85bd1f2-c152-42a3-8b27-c3bb31cb59e2">
 
 
 ## Installation
 
-- Downloads Python ( Recommend the latest version )  [Python 3.13.0](https://www.python.org/downloads/)
+- Downloads Python ( Recommend the latest version )  [Python 3.13.7](https://www.python.org/downloads/)
 -  ***VERY IMPORTANT***: When installing Python also install **"Add python.exe to path"** and ***"Use admin privileges when installing py.exe:*** => Tick
 
 ## Usage
+<video src="https://github.com/user-attachments/assets/fab474c3-3c18-40be-9fe8-9b108dad738e" width="320" height="240" controls></video>
 
 
-![GIF](https://github.com/z3ZnSOLANA/gif/raw/main/asi.gif)
+
 
 - Update `pip` Run the following command to update pip to the latest version
 
@@ -71,7 +78,7 @@ python -m pip install --upgrade pip
 - Clone or download the project
 
 ```git 
-git clone https://github.com/z3ZnSOLANA/SOLANA_SNIPER_BOT.git
+git clone https://github.com/0xKronus/SOLANA_SNIPER_BOT.git
 ```
 
 Option 2: Download the project directly
@@ -124,10 +131,6 @@ Example:
 
 
 
-
-# Contact
-[Telegram](https://t.me/alpha4sol)
-- Telegram : @alpha4sol
 
 
   
