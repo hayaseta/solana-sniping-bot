@@ -29,16 +29,7 @@ The Solana Sniper/Trading Bot is a groundbreaking tool in the booming Solana eco
 
 **Available for both iOS and Android and PC .**
 
-
 ![image](https://github.com/user-attachments/assets/8b825c7d-1f6e-4178-a68c-af6c4dc4877d)
-
-
-
-<p align="center">
-  <a href ="https://t.me/z3Zrsolana">
-  
-  </a>
-</p>
 
 ## Features
 
